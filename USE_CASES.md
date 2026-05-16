@@ -46,6 +46,9 @@ OpenClaw is more than just a chatbot; it is a versatile framework for building a
 | **Architecture** | BIM Auditing, Site Tracking, Safety Compliance | [View Guide](use-cases/architecture-construction.md) |
 | **Conservation** | Wildlife Tracking, Anti-Poaching, Ecosystem Auditing | [View Guide](use-cases/environmental-conservation.md) |
 | **Fraud Detection** | Transaction Monitoring, AML Screening, SAR Generation | [View Guide](use-cases/financial-fraud-detection.md) |
+| **Aviation MX** | Engine Health, Maintenance Schedule, AD Compliance | [View Guide](use-cases/aviation-maintenance.md) |
+| **Waste Management** | Route Optimization, Bin Monitoring, Illegal Dumping | [View Guide](use-cases/waste-management.md) |
+| **Oil & Gas** | Pipeline Integrity, Leak Detection, Corrosion Prediction | [View Guide](use-cases/oil-gas-integrity.md) |
 
 ---
 
